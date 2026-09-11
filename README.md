@@ -6,7 +6,7 @@
 main/
 ├── dev/
 └── feature/Session_01/
-    └── Class_Practice_Problems/
+    └── Assignment_Problems/
         ├── Problem01.java
         ├── Problem02.java
         ├── Problem03.java
@@ -14,13 +14,15 @@ main/
         └── Problem05.java
 ```
 
-## Class Practice Problems
+## Assignment Problems
 
 1. Rock-Paper-Scissors Game
 2. Palindrome Checker (3 Approaches)
 3. BMI Calculator for a Team
 4. First Non-Repeating Character
 5. Reverse Customer Name
+
+Additional assignment problems will be added when provided.
 
 ## Language
 
