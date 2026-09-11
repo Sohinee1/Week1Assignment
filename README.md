@@ -1,22 +1,13 @@
 # Week 1 Assignment
 
-## Problems
+## Assignment Problems
 
-1. Seat Duplication Checker
-2. Typing Accuracy Checker
-3. Traffic Signal Analyzer
-4. Warehouse Inventory Balancer
-5. Movie Review Word Length Profiler
+1. Rock-Paper-Scissors Game
+2. Palindrome Checker (3 Approaches)
+3. BMI Calculator for a Team
+4. First Non-Repeating Character
+5. Reverse Customer Name
 
-## Language Used
+## Language
 
 Java
-
-## Concepts Used
-
-- Arrays
-- Strings
-- Loops
-- Nested Loops
-- Conditional Statements
-- Methods
